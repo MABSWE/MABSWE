@@ -12,22 +12,26 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,jquery"/><br>
     <img src="https://skillicons.dev/icons?i=python,javascript,photoshop,react,bootstrap,flask,django" /><br>
-</div>
 
 <br>
   <h2 align="center">⚡ Stats ⚡</h2>
   <br>
 
-<div align=center>
-<!-- Contributions -->
-[![GitHub Streak](https://github-readme-streak-stats-xi-puce.vercel.app?user=MABSWE&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 
-<!-- Stats -->
+<!-- GitHub Streak Stats -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MABSWE&theme=dark" alt="GitHub Streak" style="border: none;"/>
 
-<!-- Languages -->
- 
+<!-- GitHub Stats -->
 
-  <h3>Connect with me:</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=MABSWE&&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" style="border: none;"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MABSWE&&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border: none;"/></p>
+
+
+<!-- Connect with me -->
+<h3>Connect with me:</h3>
 
 <div align="center"> 
   <a href="mailto:maratboyev86@gmail.com">
@@ -44,4 +48,4 @@
   </p>
 
 </div>
-
+</div>
