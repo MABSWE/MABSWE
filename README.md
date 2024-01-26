@@ -10,7 +10,7 @@
 
   <h3>Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,jquery"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,jquery,vercel"/><br>
     <img src="https://skillicons.dev/icons?i=python,javascript,photoshop,react,bootstrap,flask,django" /><br>
 
 <br>
