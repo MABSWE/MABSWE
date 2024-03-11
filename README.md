@@ -11,7 +11,7 @@
   <h3>Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,jquery,vercel"/><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,photoshop,react,bootstrap,flask,django,adalo,es6" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,photoshop,react,bootstrap,flask,django,adalo,javascriptes6" /><br>
 
 <br>
   <h2 align="center">⚡ Stats ⚡</h2>
